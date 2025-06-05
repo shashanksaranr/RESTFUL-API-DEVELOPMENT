@@ -1,18 +1,5 @@
 # RESTFUL-API-DEVELOPMENT
 
-*COMPANY*: CODTECH IT SOLUTIONS
-
-*NAME*: SHASHANKSARAN R
-
-*INTERN ID*: CT4MVTZ
-
-*DOMAIN*: SOFTWARE DEVELOPMENT
-
-*DURATION*: 4 MONTHS (16 WEEKS)
-
-*MENTOR*: NEELA SANTOSH
-
-
 # 🧾 Inventory Management System
 
 A responsive web-based inventory dashboard designed to manage stock items, allowing users to add, update, and delete products with an intuitive interface. Built using modern web development practices and styled with Bootstrap for an elegant, user-friendly experience.
